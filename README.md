@@ -1,2 +1,0 @@
-# AppCursoGit
-app para git
